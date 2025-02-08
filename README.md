@@ -1,4 +1,17 @@
-# churn_analysis
+# Churn Analysis Python Project
+
+## Overview 
+
+This project analyzes customer churn for a telecom company, aiming to identify factors that influence customer departure. The analysis focuses on various aspects such as demographics, services subscribed, contract types, and payment methods to understand their impact on churn rates. Key visualizations are provided to highlight churn rates across different tenures, contract types, and payment methods, offering insights into customer behavior and areas for potential improvement.
+
+### Key Features:
+- Data Analysis: Explores customer demographics, service subscriptions, contract types, and payment methods to identify patterns associated with churn.
+- Visualizations: Includes visual representations of churn rates segmented by tenure, contract type, and payment method to facilitate understanding of customer behavior.
+- Insights: Provides actionable insights into factors contributing to customer churn, assisting in developing strategies for customer retention.
+
+This analysis serves as a valuable tool for telecom companies seeking to reduce churn rates by understanding and addressing the underlying causes of customer attrition.
+
+## Code Analysis
 
 ```python
 import numpy as np 
